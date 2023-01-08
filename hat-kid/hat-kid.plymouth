@@ -1,6 +1,6 @@
 [Plymouth Theme]
 Name=Hat-Kid
-Description=It's Hat Kid. This theme is a copy of spinner. It still shows the throbber during shutdown.
+Description=It's Hat Kid. This theme is a copy of spinner. It still shows the 'throbber' animation during shutdown.
 ModuleName=two-step
 
 [two-step]
