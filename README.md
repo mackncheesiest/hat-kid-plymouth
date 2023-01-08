@@ -25,3 +25,11 @@ The output images are placed in `hat-kid/throbber-*.png`. If you copy `hat-kid` 
 **Note: check the size of the generated initrd/initramfs before rebooting. It is possible to stop your system from booting due to grub facing memory allocation issues.**
 
 To reduce the number of frames generated, you can use the `--trim-frames` argument. This also has the effect of speeding up the generated animation and is pretty funny.
+
+# Preview?
+
+## Long
+![hat-kid-booting.gif](./sources/hat-kid-booting.gif)
+
+## Short
+![hat-kid-booting-short.gif](./sources/hat-kid-booting-short.gif)
